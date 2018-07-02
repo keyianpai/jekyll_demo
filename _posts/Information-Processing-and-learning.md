@@ -1,7 +1,7 @@
 ---
 title: "Information Processing and Learning"
 date: 2018-06-28T21:32:04+08:00
-draft: true
+draft: false
 ---
 ## 信息论，信息处理，机器学习以及它们之间的交叉
  Both signal processing and machine learning are about how to extract useful information from
